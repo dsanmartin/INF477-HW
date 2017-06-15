@@ -1,6 +1,6 @@
 # INF-477 Redes Neuronales Artificiales
 ## Tareas
-Gabriel Jara, Daniel San Martín
+Integrantes: Gabriel Jara, Daniel San Martín, (Francisco Salazar - T1)
 
 Profesores: Ricardo Ñanculef, Carlos Valle
 
